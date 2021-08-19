@@ -449,7 +449,7 @@
 });
 </script>
 <!--Do not remove site will Break-->
-<!--TOP TITLE-->
+<!-- SECTION 1 TOP TITLE-->
 <div class="col-sm-12 topTitleOut">
     <div class="container"> Custom Page 1 </div>
 </div>
@@ -481,7 +481,7 @@
     </div>
 </div>
 
-<!-------Event detail---->
+<!-------SECTION 2 Event detail---->
 <div id="eventOut" class="col-sm-12">
     <div class="trig" id="a2"> </div>
     <div class="container">
@@ -525,7 +525,7 @@
         </div>
     </div>
 </div>
-<!-------Event detail---->
+<!-------SECTION 3 Event detail---->
 
 <div id="cpTestimonialOut" class="col-sm-12">
     <div class="trig" id="a3"> </div>
@@ -563,14 +563,14 @@
 <div id="prisingOut" class="col-sm-12">
     <div class="trig" id="a4"> </div>
     <div class="container">
-        <!--------Pricing Heading-------->
+        <!--------SECTION 4a Pricing Heading-------->
         <div id="priceHeading" class="row">
             <h1>Pricing</h1>
             <div id="priceInfo" class="col-sm-12">
                 <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.</p>
             </div>
         </div>
-        <!-------Booking Row 1----------->
+        <!-------SECTION 4b Booking Row 1----------->
         <div class="row bookRow">
             <div class="col-sm-2 date"> NOV-11-2019 </div>
             <div class="col-sm-5 details">
@@ -639,7 +639,7 @@
     </div>
 </div>
 
-<!------Speaker Section-------->
+<!------SECTION 5 Speaker Section-------->
 <div id="speakersOut" class="col-sm-12">
     <div class="trig" id="a3"> </div>
     <div class="container">
@@ -668,7 +668,7 @@
         </div>
     </div>
 </div>
-<!------Sponsor Slider-------->
+<!------SECTION 6 Sponsor Slider-------->
 <div id="sponsorSlider" class="col-sm-12">
     <div class="trig" id="a5"> </div>
     <div class="container">
