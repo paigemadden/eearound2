@@ -455,25 +455,25 @@
 </div>
 <div class="col-sm-12 navigation">
     <div class="container">
-        <div class="inNavIn"> <a href="#a1">Registration</a> <a href="#a2">Speed Sessions</a> <a href="#a3">Scholarship Students</a> <a href="#a4">Donations</a> <a href="#a5">Sponsors</a> </div>
+        <div class="inNavIn"> <a href="#a1">Registration</a> <a href="#a2">Speed Sessions</a> <a href="#a3">Scholarship Students</a> <a href="#a4">Sponsorships</a> <a href="#a5">Donations</a> </div>
     </div>
 </div>
 <div class="col-sm-12 altNav">
     <div class="container">
-        <div class="inNavIn"> <a href="#a1">Registration</a> <a href="#a2">Speed Sessions</a> <a href="#a3">Scholarship Students</a> <a href="#a4">Donations</a> <a href="#a5">Sponsorships</a> <a href="#a1">To top</a> </div>
+        <div class="inNavIn"> <a href="#a1">Registration</a> <a href="#a2">Speed Sessions</a> <a href="#a3">Scholarship Students</a> <a href="#a4">Sponsorships</a> <a href="#a5">Donations</a> <a href="#a1">To top</a> </div>
     </div>
 </div>
 <div id="topVideo" class="col-sm-12 area">
-    <div class="trig" id="a1"> </div>
-    <div class="container">
+        <div class="container">
         <div class="row">
             <div class="col-sm-6">
                 <h1>2022 Engineering Excellence Awards Banquet &amp; Scholarship Fundraiser</h1>
                 <h4>February 3, 2022 | The Fairmont San Francisco</h4>
                 <p>Please join us for ACEC California's 6th Annual Scholarship Foundation Fundraising Event, presenting the ACEC California Engineering Excellence Awards (EEA). We are excited to bring the Scholarship Foundation and EEA together to celebrate
                     the achievements of the Engineering and Surveying industries, while supporting students and strengthening the future of engineering.
-                </p><br />
-                <h2><i class="fas fa-calendar-alt"></i> Registration</h2>
+                </p><br/>
+              <div class="trig" id="a1"> </div>
+		    <h2><i class="fas fa-calendar-alt"></i> Registration</h2>
                 <hr />
 		    <table style="text-align: center; width: 173px; height: 40.5px; background-color: #a52c23;" cellpadding="10">
                                 <tbody>
@@ -496,7 +496,7 @@
 
 <!-- SECTION 1b TOP TITLE-->
 <div id="topVideo" class="col-sm-12 area">
-    <div class="trig" id="a1"> </div>
+    <div class="trig" id="a2"> </div>
     <div class="container">
         <div class="row">
             <div class="col-sm-6">
@@ -540,7 +540,7 @@
     </div>
     <!-------SECTION 2b Event detail---->
     <div id="eventOut" class="col-sm-12">
-        <div class="trig" id="a2"> </div>
+        <div class="trig"> </div>
         <div class="container">
             <div id="desc1" class="col-sm-4">
                                 <h4><span style="color: #020e54;"><img alt="" src="/resource/resmgr/2022_eea/speed_session_speakers/ss_speaker-03.png" style="width: 200px; height: 200px;" /></span></h4>
@@ -567,7 +567,7 @@
         </div>
         <!-------SECTION 2c Event detail---->
         <div id="eventOut" class="col-sm-12">
-            <div class="trig" id="a2"> </div>
+            <div class="trig"> </div>
             <div class="container">
                 <div id="desc1" class="col-sm-4">
                                        <h4><span style="color: #020e54;"><img alt="" src="/resource/resmgr/2022_eea/speed_session_speakers/ss_speaker-02.png" style="width: 200px; height: 200px;" /></span></h4>
@@ -584,7 +584,7 @@
             </div>
             <!------SECTION 5 Speaker Section-------->
             <div id="speakersOut" class="col-sm-12">
-                <div class="trig" id="a3"> </div>
+                <div class="trig"> </div>
                 <div class="container">
                     <div class="row">
                         <div id="spekerInfo" class="col-sm-6">
@@ -612,7 +612,7 @@
                 </div>
                 <!------SECTION 6 Sponsor Slider-------->
                 <div id="sponsorSlider" class="col-sm-12">
-                    <div class="trig" id="a5"> </div>
+                    <div class="trig"> </div>
                     <div class="container">
                         <div class="sTitle">
                             <h1></h1>
@@ -688,7 +688,7 @@
 
                 <!------SECTION 5 Speaker Section-------->
                 <div id="speakersOut" class="col-sm-12">
-                    <div class="trig" id="a3"> </div>
+                    <div class="trig" id="a5"> </div>
                     <div class="container">
                         <div class="row">
                             <div id="spekerImage" class="col-sm-6"> <img alt="" class="img-responsive center-block" src="https://cdn.ymaws.com/acec-ca.site-ym.com/resource/resmgr/2022_eea/scholarship_foundation.png" /> </div>
