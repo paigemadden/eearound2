@@ -33,8 +33,8 @@
         display: none;
     }
     .topTitleOut {
-        background: url(http://via.placeholder.com/2000x300) no-repeat scroll center center / cover;
-        color: #fff;
+        background: url(https://www.acec-ca.org/resource/resmgr/2022_eea/Untitled_design__2_.png) no-repeat scroll center center / cover;
+        color: #020e54;
         font-weight: bold;
         margin-bottom: 0px;
         text-align: center;
@@ -57,7 +57,7 @@
         height: auto !important;
     }
     .navigation {
-        background:#aa1e2d;
+        background:#020354;
         padding: 20px 0;
     }
     .inNavIn {
@@ -80,7 +80,7 @@
         padding: 20px 0;
         left: 0;
         display: none;
-        background: #aa1e2d;
+        background: #020E54;
         z-index: 300;
     }
     #topVideo {
@@ -88,12 +88,12 @@
     }
     /* Begin Testimonial Styles */
     #cpTestimonialOut {
-        background: #222d65;
+        background: #7DB5D0;
         padding-top: 30px;
         padding-bottom: 30px;
     }
     #testimonialSlider h1 {
-        color: #ffffff;
+        color: #020e54;
         font-size: 30px;
         font-weight: 300;
         text-align: center;
@@ -110,12 +110,12 @@
         height: 190px;
     }
     #testimonialSlider .item p {
-        color: #fff;
+        color: #020e54;
         font-size: 17px;
         line-height: 23px;
     }
     #testimonialSlider h3 {
-        color: #fff;
+        color: #020e54;
         font-size: 17px;
         font-weight: 700;
         line-height: 21px;
@@ -142,7 +142,7 @@
         padding-top: 20px;
     }
     .date {
-        color: #666;
+        color: #020e54;
         font-size: 17px;
         text-align: center;
         font-weight: 600;
@@ -161,14 +161,14 @@
     .detDes {
         padding-top: 17px;
         font-size: 12px;
-        background: #333333;
+        background: #020e54;
         color: #fff;
         overflow: hidden;
         text-align: center;
     }
     .detTitle {
-        background: #222d65;
-        color: #fff;
+        background: #7db5d0;
+        color: #020e54;
         text-align: center;
         line-height: 30px;
     }
@@ -185,7 +185,7 @@
         position: absolute;
         font-size: 35px;
         top: 12px;
-        color: #333333;
+        color: #020e54;
         z-index: 10;
     }
     .row.bookRow {
@@ -194,7 +194,7 @@
     }
     .pirceInfo {
         border-right: 1px solid #222d65;
-        color: #222d65;
+        color: #020e54;
         text-align: center;
         font-size: 20px;
         font-weight: 600;
@@ -205,7 +205,7 @@
     .bookBTN a {
         display: table;
         width: 73%;
-        background: #aa1e2d;
+        background: #a52c23;
         color: #fff;
         height: 38px;
         line-height: 38px;
@@ -213,13 +213,13 @@
         text-align: center;
     }
     .bookBTN a:hover {
-        background: #888;
+        background: #ff700a;
     }
     /*Speakers section
         ================================*/
     #speakersOut {
         padding: 60px 0;
-        background: #eee;
+        background: #fff;
     }
     /*Sponsor section
         ================================*/
@@ -250,7 +250,7 @@
     }
     #eventOut {
 		padding: 60px 0;
-		background: #f9f9f9;
+		background: #7db5d0;
 	}
 	#desc2 a {
 		display: block;
@@ -259,16 +259,16 @@
 	div#eventOut h2 i {
 		display: block;
 		margin-bottom: 10px;
-		color: #353E70;
+		color: #e8dfc6;
 		font-size: 36px;
 	}
 	
 	#eventOut h2{
-	color: #666;
+	color: #e8dfc6;
     margin-bottom: 30px;
     margin-top: 0;
     padding-bottom: 18px;
-    border-bottom: 3px solid #aaa;
+    border-bottom: 3px solid #e8dfc6;
 	}
     @media (max-width: 960px) {
     .detTitle {
@@ -278,7 +278,7 @@
 		width: 50%;
 	}
 	#desc3{
-		width:100%;
+		width:50%;
 		}
     }
     
@@ -449,18 +449,18 @@
 });
 </script>
 <!--Do not remove site will Break-->
-<!-- SECTION 1 TOP TITLE-->
+<!-- SECTION 1a TOP TITLE-->
 <div class="col-sm-12 topTitleOut">
-    <div class="container"> Custom Page 1 </div>
+    <div class="container">2022 ENGINEERING EXCELLENCE AWARDS BANQUET &amp; SCHOLARSHIP FUNDARISER, PLUS SPEED SESSIONS</div>
 </div>
 <div class="col-sm-12 navigation">
     <div class="container">
-        <div class="inNavIn"> <a href="#a1">Area1</a> <a href="#a2">Area2</a> <a href="#a3">Area3</a> <a href="#a4">Area4</a> <a href="#a5">Area5</a> </div>
+        <div class="inNavIn"> <a href="#a1">Registration</a> <a href="#a2">Speed Sessions</a> <a href="#a3">Scholarship Students</a> <a href="#a4">Donations</a> <a href="#a5">Sponsors</a> </div>
     </div>
 </div>
 <div class="col-sm-12 altNav">
     <div class="container">
-        <div class="inNavIn"> <a href="#a1">Area1</a> <a href="#a2">Area2</a> <a href="#a3">Area3</a> <a href="#a3">Area4</a> <a href="#a5">Area5</a> <a href="#a1">To top</a> </div>
+        <div class="inNavIn"> <a href="#a1">Registration</a> <a href="#a2">Speed Sessions</a> <a href="#a3">Scholarship Students</a> <a href="#a4">Donations</a> <a href="#a5">Sponsorships</a> <a href="#a1">To top</a> </div>
     </div>
 </div>
 <div id="topVideo" class="col-sm-12 area">
@@ -468,239 +468,252 @@
     <div class="container">
         <div class="row">
             <div class="col-sm-6">
-                <h1>Lorem Ipsum Dolor</h1>
-                <h4>May 19, 2017</h4>
-                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen
-                    book.
-                </p>
+                <h1>2022 Engineering Excellence Awards Banquet &amp; Scholarship Fundraiser</h1>
+                <h4>February 3, 2022 | The Fairmont San Francisco</h4>
+                <p>Please join us for ACEC California's 6th Annual Scholarship Foundation Fundraising Event, presenting the ACEC California Engineering Excellence Awards (EEA). We are excited to bring the Scholarship Foundation and EEA together to celebrate
+                    the achievements of the Engineering and Surveying industries, while supporting students and strengthening the future of engineering.
+                </p><br />
+                <h2><i class="fas fa-calendar-alt"></i> Registration</h2>
+                <hr />
+		    <table style="text-align: center; width: 173px; height: 40.5px; background-color: #a52c23;" cellpadding="10">
+                                <tbody>
+                                    <tr>
+                                        <td>
+                                            <span style="font-size: 22px; color: #ffffff;"><a href="https://www.acec-ca.org/events/register.aspx?id=1402010"><b><span style="color: #ffffff;">CLICK HERE
+</span></b>
+                                            </a>
+                                            </span>
+                                        </td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </div>
             </div>
-            <div class="col-sm-6">
-                <iframe src="https://www.youtube.com/embed/NpEaa2P7qZI" allow="autoplay; encrypted-media" width="100%" height="315" frameborder="0"></iframe>
-            </div>
+            <div id="spekerImage" class="col-sm-6"> <img alt="" class="img-responsive center-block" src="https://cdn.ymaws.com/acec-ca.site-ym.com/resource/resmgr/2022_eea/2022_eea_logo-01.png" style="width: 287px; height: 250px;" /> </div>
         </div>
     </div>
 </div>
 
-<!-------SECTION 2 Event detail---->
+<!-- SECTION 1b TOP TITLE-->
+<div id="topVideo" class="col-sm-12 area">
+    <div class="trig" id="a1"> </div>
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-6">
+                <h1>Speed Sessions</h1>
+                <h4>February 3, 2022 | The Fairmont San Francisco</h4>
+                <p>An educational series on Resiliency &amp; Sustainability.</p>
+                <p>The engineering profession continually practices the arts of resiliency and sustainability in all the things we do for our projects, our firms, and ourselves. Join us to learn more about these important topics and how to get the best out
+                    of these practices.</p>
+            </div>
+            <div id="spekerImage" class="col-sm-6"> <img alt="" class="img-responsive center-block" src="https://cdn.ymaws.com/acec-ca.site-ym.com/resource/resmgr/2022_eea/speed_sessions_logo-01.png" style="width: 353px; height: 150px;" /> </div>
+        </div>
+    </div>
+</div>
+
+<!-------SECTION 2a Event detail---->
 <div id="eventOut" class="col-sm-12">
     <div class="trig" id="a2"> </div>
+	  <div class="sTitle">
+                            <h1>Speed Session Speakers</h1><br>
+                        </div>
     <div class="container">
         <div id="desc1" class="col-sm-4">
-            <h2><i class="fas fa-hotel"></i> Venue</h2>
-            <p class="smRed">May 19, 2017</p>
-            <h3>The Awesome Hotel</h3>
-            <p>9620 Executive Center Dr N #200, St. Petersburg, FL 33702</p>
-            <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen
-                book
-            </p>
+                        <h4><span style="color: #020e54;"><img alt="" src="/resource/resmgr/2022_eea/speed_session_speakers/ss_speaker-01.png" style="width: 200px; height: 200px;" /></span></h4>
+		<h2><span style="color: #020e54;">Stephanie Wiggins</span></h2>
+            <p><span style="color: #020e54;">Stephanie Wiggins, Chief Executive Office at the L.A. Metro will be presenting our Opening Session.</span></p>
+            <h4><span style="color: #020e54;"><img alt="" src="/resource/resmgr/2022_eea/speed_session_speakers/ss_speaker-04.png" style="width: 200px; height: 200px;" /></span></h4>
+	<h2><span style="color: #020e54;">Elaine Forbes</span></h2>
+            <p><span style="color: #020e54;">Elaine Forbes, Executive Director at the Port of San Francisco will be presenting on Seismic Activity.</span></p>
+
+            <p>&nbsp;</p>
 
         </div>
+        <div class="container">
+            <div id="desc3" class="col-sm-4">
+                                <h4><span style="color: #020e54;"><img alt="" src="/resource/resmgr/2022_eea/speed_session_speakers/ss_speaker-07.png" style="width: 200px; height: 200px;" /></span></h4>
+		    <h2><span style="color: #020e54;">Anissa Voyiatzes</span></h2>
+                <p><span style="color: #020e54;">Anissa Voyiatzes, Engineering &amp; Municipal Services Group Leader at Ardurra will be presenting on Green Infrastructure Runoff.&nbsp;</span></p>
 
-        <div id="desc2" class="col-sm-4">
-            <h2><i class="fas fa-bed"></i> Hotel Accommodation</h2>
-            <h3>Where can I stay?</h3>
-            <p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. </p>
-            <div class="row">
-                <div class="col-sm-6 linkCol">
-                    <a href="#">Hotel 1</a>
-                    <a href="#">Hotel 2</a>
-                    <a href="#">Hotel 3</a>
-                    <a href="#">Hotel 4</a>
-                </div>
-                <div class="col-sm-6 linkCol">
-                    <a href="#">Hotel 5</a>
-                    <a href="#">Hotel 6</a>
-                    <a href="#">Hotel 7</a>
-                    <a href="#">Hotel 8</a>
-                </div>
             </div>
-
-
-        </div>
-
-        <div id="desc3" class="col-sm-4">
-            <h2><i class="fas fa-location-arrow"></i> Location Map</h2>
-            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3527.3870347671286!2d-82.6441652851482!3d27.85937888272927!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x88c2e79f9e211f0b%3A0x1aa0703c8458af61!2sCommunity%20Brands!5e0!3m2!1sen!2sus!4v1598891849962!5m2!1sen!2sus"
-                width="100%" height="200" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
         </div>
     </div>
-</div>
-<!-------SECTION 3 Event detail---->
+    <!-------SECTION 2b Event detail---->
+    <div id="eventOut" class="col-sm-12">
+        <div class="trig" id="a2"> </div>
+        <div class="container">
+            <div id="desc1" class="col-sm-4">
+                                <h4><span style="color: #020e54;"><img alt="" src="/resource/resmgr/2022_eea/speed_session_speakers/ss_speaker-03.png" style="width: 200px; height: 200px;" /></span></h4>
+		    <h2><span style="color: #020e54;">Claire Bonham-Carter</span></h2>
+                <p><span style="color: #020e54;">Claire Bonham-Carter, Vice President at AECOM will be presenting on Resilience &amp; Sustainability Frameworks for Municipal Infrastructure.&nbsp;</span></p>
+            </div>
+            <div class="container">
+                <div id="desc1" class="col-sm-4">
+                                        <h4><span style="color: #020e54;"><img alt="" src="/resource/resmgr/2022_eea/speed_session_speakers/ss_speaker-06.png" style="width: 200px; height: 200px;" /></span></h4>
+			<h2><span style="color: #020e54;">Maria Hernandez, PhD.</span></h2>
+                    <p><span style="color: #020e54;">Maria Hernandez, PhD., Consulting Practice Leader at InclusionINC. will be co-presenting on Inclusion and Resilience in the Workforce.</span></p>
 
-<div id="cpTestimonialOut" class="col-sm-12">
-    <div class="trig" id="a3"> </div>
-    <div class="cpContainer">
-        <div class="row">
-            <section id="section1" class="offset">
-                <div id="testimonialSlider" class="carousel slide" data-ride="carousel">
-                    <h1>What Our Customers Say</h1>
-                    <div class="carousel-inner">
-                        <div class="item">
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean vel tincidunt ex. Duis nisi ligula, fermentum sit amet gravida eu, eleifend eget tellus. Phasellus lobortis ac arcu non aliquet. Aliquam viverra eros vitae imperdiet
-                                malesuada. Morbi id aliquet lorem. Integer lectus elit, aliquet vitae felis nec, interdum tristique mi.</p>
-                            <h3>Aliquam Ac Lacus</h3>
-                            <h3>Nulla</h3>
+                </div>
+
+            </div>
+            <div class="container">
+                <div id="desc3" class="col-sm-4">
+                                        <h4><span style="color: #020e54;"><img alt="" src="/resource/resmgr/2022_eea/speed_session_speakers/ss_speaker-05.png" style="width: 200px; height: 200px;" /></span></h4>
+			<h2><span style="color: #020e54;">Tammy Ramos, JD</span></h2>
+                    <p><span style="color: #020e54;">Tammy Ramos, JD, Executive Consultant &amp; Coach at InclusionINC. will be presenting on Inclusion and Resilience in the Workforce.</span></p>
+
+                </div>
+            </div>
+        </div>
+        <!-------SECTION 2c Event detail---->
+        <div id="eventOut" class="col-sm-12">
+            <div class="trig" id="a2"> </div>
+            <div class="container">
+                <div id="desc1" class="col-sm-4">
+                                       <h4><span style="color: #020e54;"><img alt="" src="/resource/resmgr/2022_eea/speed_session_speakers/ss_speaker-02.png" style="width: 200px; height: 200px;" /></span></h4>
+			 <h2><span style="color: #020e54;">Katie Miller</span></h2>
+                    <p><span style="color: #020e54;">Katie Miller, President at Left Lane Advisors will be presenting on How Resiliency Speaks to the Brain.&nbsp;</span></p>
+                </div>
+                                  </div>
+
+                </div>
+                
+
+                    </div>
+                </div>
+            </div>
+            <!------SECTION 5 Speaker Section-------->
+            <div id="speakersOut" class="col-sm-12">
+                <div class="trig" id="a3"> </div>
+                <div class="container">
+                    <div class="row">
+                        <div id="spekerInfo" class="col-sm-6">
+                            <h1><i class="fas fa-calendar-alt"></i> Registration</h1>
+                            <hr />
+                            <table style="text-align: center; width: 173px; height: 40.5px; background-color: #a52c23;" cellpadding="10">
+                                <tbody>
+                                    <tr>
+                                        <td>
+                                            <span style="font-size: 22px; color: #ffffff;"><a href="https://www.acec-ca.org/events/register.aspx?id=1402010"><b><span style="color: #ffffff;">CLICK HERE
+</span></b>
+                                            </a>
+                                            </span>
+                                        </td>
+                                    </tr>
+                                </tbody>
+                            </table>
                         </div>
-                        <div class="item">
-                            <p>Fusce congue mi vulputate, consectetur urna et, volutpat mi. Vestibulum accumsan sapien sed neque condimentum malesuada. Mauris sed elementum augue. Curabitur malesuada turpis sit amet libero hendrerit, eu rutrum orci ornare.
-                                Vestibulum ullamcorper, sapien ut ullamcorper elementum, sapien erat hendrerit est, id vulputate lorem purus vel lectus.</p>
-                            <h3>Integer Interdum, Luctus Accumsan</h3>
-                            <h3>Aliquam In Aliquam</h3>
-                        </div>
-                        <div class="item active">
-                            <p>Duis mollis diam ut elit eleifend, eu condimentum ipsum congue. Vivamus interdum nibh at nisi blandit eleifend. Donec tempor convallis libero non maximus. Morbi varius sodales congue. Duis a massa in ipsum tempor malesuada
-                                sit amet eu est. Maecenas posuere tempor cursus. Fusce non imperdiet tellus. Morbi sed ultrices ante, at imperdiet orci. Pellentesque auctor mauris nec lectus egestas ultrices.</p>
-                            <h3>Vivamus Interdum, Donec Tempor</h3>
-                            <h3>Pellentesque</h3>
+                        <div id="spekerInfo" class="col-sm-6">
+                            <h1>Speed Session Sponsorships</h1>
+                            <hr />
+                            <p>Coming soon...</p>
                         </div>
                     </div>
-                    <a data-slide="prev" href="#testimonialSlider" class="left carousel-control"><i class="fa fa-chevron-left"></i></a> <a data-slide="next" href="#testimonialSlider" class="right carousel-control"><i class="fa fa-chevron-right"></i></a>                    </div>
-            </section>
-        </div>
-    </div>
-</div>
+                </div>
+                <!------SECTION 6 Sponsor Slider-------->
+                <div id="sponsorSlider" class="col-sm-12">
+                    <div class="trig" id="a5"> </div>
+                    <div class="container">
+                        <div class="sTitle">
+                            <h1></h1>
+				
+                        </div>
+                        <div id="sponsor-carousel" class="carousel slide" data-ride="carousel">
+                            <!-- Wrapper for slides -->
+                            <div class="carousel-inner" role="listbox">
+                                <div class="item next left">
+                                    <div class="col-sm-3"> <img alt="" class="img-responsive" src="" /> </div>
+                                    <div class="col-sm-3"> <img alt="" class="img-responsive" src="" /> </div>
+                                    <div class="col-sm-3"> <img alt="" class="img-responsive" src="" /> </div>
+                                    <div class="col-sm-3"> <img alt="" class="img-responsive" src="" /> </div>
+                                </div>
+                                <div class="item active left">
+                                    <div class="col-sm-3"> <img alt="" class="img-responsive" src="" /> </div>
+                                    <div class="col-sm-3"> <img alt="" class="img-responsive" src="" /> </div>
+                                    <div class="col-sm-3"> <img alt="" class="img-responsive" src="" /> </div>
+                                    <div class="col-sm-3"> <img alt="" class="img-responsive" src="" /> </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-------SECTION 3 Event detail---->
 
-<div id="prisingOut" class="col-sm-12">
-    <div class="trig" id="a4"> </div>
-    <div class="container">
-        <!--------SECTION 4a Pricing Heading-------->
-        <div id="priceHeading" class="row">
-            <h1>Pricing</h1>
-            <div id="priceInfo" class="col-sm-12">
-                <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.</p>
-            </div>
-        </div>
-        <!-------SECTION 4b Booking Row 1----------->
-        <div class="row bookRow">
-            <div class="col-sm-2 date"> NOV-11-2019 </div>
-            <div class="col-sm-5 details">
-                <div cass="row">
-                    <div class="col-sm-4 detTitle">
-                        <p>EARLY BIRD</p>
-                    </div>
-                    <div class="col-sm-8 detDes">
-                        <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
-                    </div>
-                </div>
-            </div>
-            <div class="col-sm-5 price">
-                <div cass="row">
-                    <div class="col-sm-6 pirceInfo">
-                        <p>$29.99</p>
-                    </div>
-                    <div class="col-sm-6 bookBTN"> <a href="#">Book Now</a> </div>
-                </div>
-            </div>
-        </div>
-        <!-------Booking Row 2----------->
-        <div class="row bookRow">
-            <div class="col-sm-2 date"> NOV-11-2019 </div>
-            <div class="col-sm-5 details">
-                <div cass="row">
-                    <div class="col-sm-4 detTitle">
-                        <p>MEMBER</p>
-                    </div>
-                    <div class="col-sm-8 detDes">
-                        <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
+                <div id="cpTestimonialOut" class="col-sm-12">
+                    <div class="trig" id="a3"> </div>
+                    <div class="cpContainer">
+                        <div class="row">
+                            <section id="section1" class="offset">
+                                <div id="testimonialSlider" class="carousel slide" data-ride="carousel">
+                                    <h1>What Our Scholarship Students Say</h1>
+                                    <div class="carousel-inner">
+                                        <div class="item">
+                                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean vel tincidunt ex. Duis nisi ligula, fermentum sit amet gravida eu, eleifend eget tellus. Phasellus lobortis ac arcu non aliquet. Aliquam viverra
+                                                eros vitae imperdiet malesuada. Morbi id aliquet lorem. Integer lectus elit, aliquet vitae felis nec, interdum tristique mi.</p>
+                                            <h3>Aliquam Ac Lacus</h3>
+                                            <h3>Nulla</h3>
+                                        </div>
+                                        <div class="item">
+                                            <p>Fusce congue mi vulputate, consectetur urna et, volutpat mi. Vestibulum accumsan sapien sed neque condimentum malesuada. Mauris sed elementum augue. Curabitur malesuada turpis sit amet libero hendrerit, eu rutrum
+                                                orci ornare. Vestibulum ullamcorper, sapien ut ullamcorper elementum, sapien erat hendrerit est, id vulputate lorem purus vel lectus.</p>
+                                            <h3>Integer Interdum, Luctus Accumsan</h3>
+                                            <h3>Aliquam In Aliquam</h3>
+                                        </div>
+                                        <div class="item active">
+                                            <p>Duis mollis diam ut elit eleifend, eu condimentum ipsum congue. Vivamus interdum nibh at nisi blandit eleifend. Donec tempor convallis libero non maximus. Morbi varius sodales congue. Duis a massa in ipsum tempor
+                                                malesuada sit amet eu est. Maecenas posuere tempor cursus. Fusce non imperdiet tellus. Morbi sed ultrices ante, at imperdiet orci. Pellentesque auctor mauris nec lectus egestas ultrices.</p>
+                                            <h3>Vivamus Interdum, Donec Tempor</h3>
+                                            <h3>Pellentesque</h3>
+                                        </div>
+                                    </div>
+                                    <a data-slide="prev" href="#testimonialSlider" class="left carousel-control"><i class="fa fa-chevron-left"></i></a> <a data-slide="next" href="#testimonialSlider" class="right carousel-control"><i class="fa fa-chevron-right"></i></a>                                    </div>
+                            </section>
+                        </div>
                     </div>
                 </div>
-            </div>
-            <div class="col-sm-5 price">
-                <div cass="row">
-                    <div class="col-sm-6 pirceInfo">
-                        <p>$29.99</p>
-                    </div>
-                    <div class="col-sm-6 bookBTN"> <a href="#">Book Now</a> </div>
-                </div>
-            </div>
-        </div>
-        <!-------Booking Row 3----------->
-        <div class="row bookRow">
-            <div class="col-sm-2 date"> NOV-11-2019 </div>
-            <div class="col-sm-5 details">
-                <div cass="row">
-                    <div class="col-sm-4 detTitle">
-                        <p>FULL PRICE</p>
-                    </div>
-                    <div class="col-sm-8 detDes">
-                        <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
-                    </div>
-                </div>
-            </div>
-            <div class="col-sm-5 price">
-                <div cass="row">
-                    <div class="col-sm-6 pirceInfo">
-                        <p>$29.99</p>
-                    </div>
-                    <div class="col-sm-6 bookBTN"> <a href="#">Book Now</a> </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</div>
 
-<!------SECTION 5 Speaker Section-------->
-<div id="speakersOut" class="col-sm-12">
-    <div class="trig" id="a3"> </div>
-    <div class="container">
-        <div class="row">
-            <div id="spekerImage" class="col-sm-6"> <img alt="" class="img-responsive center-block" src="http://via.placeholder.com/600x400"> </div>
-            <div id="spekerInfo" class="col-sm-6">
-                <h1>Speaker</h1>
-                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen
-                    book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.</p>
-                <p> It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
-                <a>Read More</a> </div>
-        </div>
-    </div>
-</div>
-<div id="speakersOut" class="col-sm-12">
+                <div id="prisingOut" class="col-sm-12">
+                    <div class="trig" id="a4"> </div>
+                    <div class="container">
 
-    <div class="container">
-        <div class="row">
-            <div id="spekerImage" class="col-sm-6"> <img alt="" class="img-responsive center-block" src="http://via.placeholder.com/600x400"> </div>
-            <div id="spekerInfo" class="col-sm-6">
-                <h1>Speaker</h1>
-                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen
-                    book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.</p>
-                <p> It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
-                <a>Read More</a> </div>
-        </div>
-    </div>
-</div>
-<!------SECTION 6 Sponsor Slider-------->
-<div id="sponsorSlider" class="col-sm-12">
-    <div class="trig" id="a5"> </div>
-    <div class="container">
-        <div class="sTitle">
-            <h1>Our Sponsors</h1>
-        </div>
-        <div id="sponsor-carousel" class="carousel slide" data-ride="carousel">
-            <!-- Wrapper for slides -->
-            <div class="carousel-inner" role="listbox">
-                <div class="item next left">
-                    <div class="col-sm-3"> <img class="img-responsive" src="http://via.placeholder.com/200x100"> </div>
-                    <div class="col-sm-3"> <img class="img-responsive" src="http://via.placeholder.com/200x100"> </div>
-                    <div class="col-sm-3"> <img class="img-responsive" src="http://via.placeholder.com/200x100"> </div>
-                    <div class="col-sm-3"> <img class="img-responsive" src="http://via.placeholder.com/200x100"> </div>
-                </div>
-                <div class="item active left">
-                    <div class="col-sm-3"> <img class="img-responsive" src="http://via.placeholder.com/200x100"> </div>
-                    <div class="col-sm-3"> <img class="img-responsive" src="http://via.placeholder.com/200x100"> </div>
-                    <div class="col-sm-3"> <img class="img-responsive" src="http://via.placeholder.com/200x100"> </div>
-                    <div class="col-sm-3"> <img class="img-responsive" src="http://via.placeholder.com/200x100"> </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</div>
-<!------Mobile Sponsor Row section---------->
-<div class="MobileSponsorsOut">
+                        <!--------SECTION 4a Pricing Heading-------->
+                        <div id="priceHeading" class="row">
+                            <h1>EEA Banquet Sponsorship Opportunities</h1>
+			<br>	<p>Coming soon...</p>
+				<hr>
+                            <div id="priceInfo" class="col-sm-12">
+                            </div>
+                        </div>
+       
 
-    <div class="sTitle">
-        <h2>Our Sponsors</h2>
-    </div>
-    <div class="container">
-        <div class="row"> <a href="#" class="sponBTN">For Full list of Sponsors Click Here</a> </div>
-    </div>
-</div>
+                <!------SECTION 5 Speaker Section-------->
+                <div id="speakersOut" class="col-sm-12">
+                    <div class="trig" id="a3"> </div>
+                    <div class="container">
+                        <div class="row">
+                            <div id="spekerImage" class="col-sm-6"> <img alt="" class="img-responsive center-block" src="https://cdn.ymaws.com/acec-ca.site-ym.com/resource/resmgr/2022_eea/scholarship_foundation.png" /> </div>
+                            <div id="spekerInfo" class="col-sm-6">
+                                <h1>Scholarship Foundation Donations</h1>
+                                <p>Every year, the ACEC California Schoalrship Foundation seeks the best and brightest engineering and land surveying students in California and awards scholarships to them. Over the years, ACEC California has awarded over
+                                    $800,000 in cash grants to hundreds of outstanding students.</p>
+                                <p>Your donation to the Foundation is an important investment in the future of the engineering and land surveying professions. Helping today's top students become tomorrow's best engineers is crucial to our industry. As the
+                                    cost of education continues to spiral upward, it is more important than ever that we lend a hand to those deserving young men and women. By donating to the Foundation, you will help attract and retain the most talented
+                                    students to the professional engineering and land surveying professions. With your support, students aspiring to be the next generation of engineers and land surveyors will continue on their path towards entering the
+                                    workforce knowing that the industry is already actively supporting their success.</p>
+                                                          <table style="text-align: center; width: 225px; height: 40.5px; background-color: #a52c23;" cellpadding="10">
+                                <tbody>
+                                    <tr>
+                                        <td>
+                                            <span style="font-size: 22px; color: #ffffff;"><a href="https://www.acec-ca.org/store/ListProducts.aspx?catid=555372"><b><span style="color: #ffffff;">DONATE HERE
+</span></b>
+                                            </a>
+                                            </span>
+                                        </td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </div>
+                        </div>
+                    </div>
+                </div>
+              
