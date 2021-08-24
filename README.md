@@ -648,22 +648,19 @@
                                     <h1>What Our Scholarship Students Say</h1>
                                     <div class="carousel-inner">
                                         <div class="item">
-                                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean vel tincidunt ex. Duis nisi ligula, fermentum sit amet gravida eu, eleifend eget tellus. Phasellus lobortis ac arcu non aliquet. Aliquam viverra
-                                                eros vitae imperdiet malesuada. Morbi id aliquet lorem. Integer lectus elit, aliquet vitae felis nec, interdum tristique mi.</p>
-                                            <h3>Aliquam Ac Lacus</h3>
-                                            <h3>Nulla</h3>
+                                            <p>I am very excited and thankful to recieve this scholarship as it will greatly help me fund my master's degree program and motivate me to continue striving for exccelnce. With a master's degree in structural engineering, I hope to have a postive imapact on individuals and communities on a daily basis by promoting safety and creating uplifting, inclusive spaces.</p>
+                                            <h3>Honor Fisher</h3>
+                                            <h3>Purusing a Master's degree in Structural Engineering.</h3>
                                         </div>
                                         <div class="item">
-                                            <p>Fusce congue mi vulputate, consectetur urna et, volutpat mi. Vestibulum accumsan sapien sed neque condimentum malesuada. Mauris sed elementum augue. Curabitur malesuada turpis sit amet libero hendrerit, eu rutrum
-                                                orci ornare. Vestibulum ullamcorper, sapien ut ullamcorper elementum, sapien erat hendrerit est, id vulputate lorem purus vel lectus.</p>
-                                            <h3>Integer Interdum, Luctus Accumsan</h3>
-                                            <h3>Aliquam In Aliquam</h3>
+                                            <p>Thank you for selecting me as on of the ACEC scholarship recipients! This scholarship award is important to me because it will allow me to focus on coursework, and not worry about paying tuition or taking our student loans in the near future. I am hoping to make a postive contribution to my community by starting my own enigneering conuslting firm after gaining enough education and work experience to do so.</p>
+                                            <h3>Krill Rogovoy</h3>
+                                            <h3>Pursuing a Bachelor's degree in Civil Engineering from California State Polytechnic University, Pomona.</h3>
                                         </div>
                                         <div class="item active">
-                                            <p>Duis mollis diam ut elit eleifend, eu condimentum ipsum congue. Vivamus interdum nibh at nisi blandit eleifend. Donec tempor convallis libero non maximus. Morbi varius sodales congue. Duis a massa in ipsum tempor
-                                                malesuada sit amet eu est. Maecenas posuere tempor cursus. Fusce non imperdiet tellus. Morbi sed ultrices ante, at imperdiet orci. Pellentesque auctor mauris nec lectus egestas ultrices.</p>
-                                            <h3>Vivamus Interdum, Donec Tempor</h3>
-                                            <h3>Pellentesque</h3>
+                                            <p>This scholarship is important to me because it is one of the many reasons why I want to stay in the engineering industry: because they care about what they do. Any assistance that students recieve will reinforce their interest and involvement, and that is the chief reasonwhy I immensely respect the ACEC and the support they provide to the educational community.</p>
+                                            <h3>Sean Low</h3>
+                                            <h3>Pursuing a Bachelor's degree in Civil Engineering from California State University, Long Beach.</h3>
                                         </div>
                                     </div>
                                     <a data-slide="prev" href="#testimonialSlider" class="left carousel-control"><i class="fa fa-chevron-left"></i></a> <a data-slide="next" href="#testimonialSlider" class="right carousel-control"><i class="fa fa-chevron-right"></i></a>                                    </div>
